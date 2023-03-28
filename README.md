@@ -1,5 +1,5 @@
 # kodluyoruz_1mergesort
-Veri yapıları ve algoritmalar proje öevi
+Veri yapıları ve algoritmalar proje ödevi
 
 [16,21,11,8,12,22] -> Merge Sort
 
